@@ -1,0 +1,86 @@
+{
+"name": "me",
+ "positive": 
+     [
+     	{
+           "word": [{"name": "great"},
+                    {"name": "time"},
+                    {"name": "views"},
+                    {"name": "credit"},
+                    {"name": "agent"},
+                    {"name": "time to buy a home"},
+                    {"name": "rental income"},
+                    {"name": "investment"}
+                  ]  
+        },
+        {
+           "word": [{"name": "good"},
+                    {"name": "time to shop for a new house"},
+                    {"name": "time to sell"},  
+                    {"name": "news for buyers"},
+                    {"name": "investment"},
+                    {"name": "family homes rule"},
+                    {"name": "negotiating tactic"},
+                    {"name": "strategy"},
+                    {"name": "economy"},
+                    {"name": "deal"},
+                    {"name": "builders"},
+                    {"name": "idea"}
+                  ]  
+        },
+        {
+            "word": [{"name": "amazing"},
+                  {"name": "selection of restuarants"},
+                  {"name": "homes"},
+                  {"name": "kitchen"},
+                  {"name": "views"}
+                  
+                 ] 
+        },
+        {
+            "word": [{"name": "fabulous"},
+                  {"name": "backyard view"}
+                  
+                 ] 
+         },
+         {
+            "word": [{"name": "fantastic"},
+                  {"name": "basement"}
+                 
+                 ] 
+        },
+        {
+            "word": [{"name": "stunning"},
+                  {"name": "rooftop terraces"}
+                 ] 
+        }
+    ],
+    "negative":
+        [
+            {
+               "word": [{"name": "bad"},
+                        {"name": "credit"},
+                        {"name": "luck"},
+                        {"name": "economy"},
+                        {"name": "news"},
+                        {"name": "weather"}
+                        
+                       ]
+            },
+            {
+               "word": [{"name": "poor"},
+                        {"name": "service"},
+                        {"name": "shape"}
+                        
+                       ]
+            },
+            {
+               "word": [{"name": "worst"},
+                        {"name": "neighborhood"},
+                        {"name": "financial crisis"},
+                        {"name": "mortgage"}
+                       ]
+            }
+        ]
+    
+}
